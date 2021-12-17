@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-live-editor/build/static/css/main.8568fb14.css",
+    "main.js": "/react-live-editor/build/static/js/main.d35f0b26.js",
+    "static/js/787.d24adfce.chunk.js": "/react-live-editor/build/static/js/787.d24adfce.chunk.js",
+    "index.html": "/react-live-editor/build/index.html",
+    "main.8568fb14.css.map": "/react-live-editor/build/static/css/main.8568fb14.css.map",
+    "main.d35f0b26.js.map": "/react-live-editor/build/static/js/main.d35f0b26.js.map",
+    "787.d24adfce.chunk.js.map": "/react-live-editor/build/static/js/787.d24adfce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8568fb14.css",
+    "static/js/main.d35f0b26.js"
+  ]
+}

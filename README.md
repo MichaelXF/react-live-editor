@@ -1,3 +1,11 @@
+# React Live Editor
+
+Welcome to React-Live-Editor!
+
+You can write HTML, CSS, and JavaScript on the left-hand side, and see your output live on the left-hand side.
+
+Your changes will automatically refresh the right-hand side.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,13 +1,44 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Preserve the viewport height */
+body,
+html {
+  height: 100%;
+}
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.root-container {
+  min-height: 100vh;
+  height: 100%;
+  overflow: hidden;
+}
+
+.flex-container {
+  display: flex;
+  height: 100%;
+}
+
+.view-container,
+.editor-container {
+  width: 50%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+/* Make sure the iframe takes up the entire container's size */
+.iframe {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
 }
