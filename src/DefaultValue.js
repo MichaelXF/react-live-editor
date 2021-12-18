@@ -34,7 +34,7 @@ export const DefaultValue = `<!DOCTYPE html>
     <h1>Welcome to <span class="gradient-text">React-Live-Editor</span>!</h1>
 
     <p>
-        You can write HTML, CSS, and JavaScript on the left-hand side, and see your output live on the left-hand side.
+        You can write HTML, CSS, and JavaScript on the left-hand side, and see your output live on the right-hand side.
     </p>
 
     <p>
