@@ -6,6 +6,8 @@ You can write HTML, CSS, and JavaScript on the left-hand side, and see your outp
 
 Your changes will automatically refresh the right-hand side.
 
+![React Live Editor](https://github.com/MichaelXF/react-live-editor/blob/master/Editor2.png?raw=true)
+
 **[Try the website here.](https://michaelxf.github.io/react-live-editor/build/)**
 
 `https://michaelxf.github.io/react-live-editor/build/`
